@@ -8,3 +8,4 @@ to analyze the returns of these four stocks and their relationship with each oth
 Finally, we predict the stock returns of Southwest Airlines for 2003 and 2011, and
 compare the prediction errors for both years.
 
+A model is developed using linear regression to predict daily stock returns of Southwest Airline in 2003 and 2011, with ASPE less than 0.032% and 0.026% respectively.
